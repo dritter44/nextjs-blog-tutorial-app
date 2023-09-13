@@ -1,3 +1,5 @@
+// this is the first post page
+
 import Link from 'next/link';
 import Head from 'next/head';
 import Script from 'next/script';
